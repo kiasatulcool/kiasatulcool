@@ -118,19 +118,6 @@
 ](mailto:kiasatulmabood@gmail.com)
 [
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-](https://linkedin.com/in/kiasatulcool)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-](https://instagram.com/maboodwebstudios)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiasatulcool&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">⚡ Building the Empire — one line of code at a time</p>
+](https://github.com/kiasatulcool)
